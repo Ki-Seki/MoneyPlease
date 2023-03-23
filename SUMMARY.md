@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [💰 我要赚钱！](README.md)
